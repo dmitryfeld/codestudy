@@ -1,0 +1,19 @@
+{
+  "person": {
+    "firstName": "Manana",
+    "lastName": "Kalopuutzee"
+  },
+  "contact": {
+    "email": "manana.kalopoozee@sensnet.org",
+    "phone": "+17778889999"
+  },
+  "address": {
+    "number": "123",
+    "street": "COMPTON CT",
+    "unit": "#51",
+    "city": "Santa Clara",
+    "state": "California",
+    "zipCode": "95111",
+    "country": "usa"
+  }
+}

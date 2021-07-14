@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "277132952205",
+    "project_id": "landmarks-435a9",
+    "storage_bucket": "landmarks-435a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277132952205:android:4f3fea9bbca9faefd358c4",
+        "android_client_info": {
+          "package_name": "com.mp.landmarks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277132952205-5gt60ehac37t0t12msberr3g1s7mrk8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByn4Pcykh49caXyRVs-izjVR3ONrWXuX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277132952205-5gt60ehac37t0t12msberr3g1s7mrk8k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "277132952205-42mhgrbr56ujmrul3thu2uj4vugsil5l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mp.landmarks"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

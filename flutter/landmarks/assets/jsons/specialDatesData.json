@@ -1,0 +1,17 @@
+[
+    {
+        "id":1001,
+        "name": "First Special Date",
+        "timestamp":"2021-07-18"
+    },
+    {
+        "id":1002,
+        "name": "Second Special Date",
+        "timestamp":"2021-07-19"
+    },
+    {
+        "id":1003,
+        "name": "Third Special Date",
+        "timestamp":"2021-07-20"
+    }
+]
