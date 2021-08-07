@@ -495,14 +495,14 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"MySwiftUI/Preview Content\"";
-				DEVELOPMENT_TEAM = 4E9JZH6N92;
+				DEVELOPMENT_TEAM = 3U634G43L4;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = MySwiftUI/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = org.mp.tutorials.MySwiftUI;
+				PRODUCT_BUNDLE_IDENTIFIER = org.tutorials.MySwiftUI;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -516,14 +516,14 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"MySwiftUI/Preview Content\"";
-				DEVELOPMENT_TEAM = 4E9JZH6N92;
+				DEVELOPMENT_TEAM = 3U634G43L4;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = MySwiftUI/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = org.mp.tutorials.MySwiftUI;
+				PRODUCT_BUNDLE_IDENTIFIER = org.tutorials.MySwiftUI;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
