@@ -16,7 +16,7 @@ struct ProfileHost: View {
         VStack(alignment: .leading, spacing: 20) {
             HStack {
                 if editMode?.wrappedValue == .active {
-                    Button("Cancle") {
+                    Button("Cancel") {
                         draftProfile = modelData.profile
                         editMode?.animation().wrappedValue = .inactive
                     }
